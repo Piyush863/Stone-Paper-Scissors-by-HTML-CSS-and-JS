@@ -10,7 +10,7 @@ Game Outcome Message: Shows the result of each game round, including the winner 
 Styling: Basic styling is applied to enhance the user experience.
 
 # Files
-1.index.html: The main HTML file that structures the game layout.
+1.index.html: The main HTML file that structures the game layout.<br>
 2.style.css: The CSS file for styling the game.
 3.app.js: The JavaScript file containing the game logic.
 
